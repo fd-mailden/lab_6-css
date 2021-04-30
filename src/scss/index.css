@@ -261,9 +261,21 @@ h1 {
 
 @media(max-width: 769px){
 
+    .h1{
+        font-size: 40px;
+    }
+    .h2{
+        font-size: 40px;
+    }
 
     .nav{
-        font-size: 25px;
+        font-size: 30px;
+    }
+    .container_news{
+        height: auto;
+        margin: 0 auto;
+        background-color: #ffffff;
+    
     }
     .container {
    
@@ -276,8 +288,19 @@ h1 {
     
     .text_p{  
         padding-top: 10px;
-        font-size: 25px;
+        font-size: 35px;
         text-align: center;
+    }
+
+    .img__img{
+        width: 600px;
+        height: 434;
+        align-items: center;
+
+    }
+    .img__pudd{
+        font-size: 35px;
+
     }
 
     .footer{
@@ -297,21 +320,21 @@ h1 {
 
     
 .table {
-    font-size: 30px;
+    font-size: 35px;
 	width: 100%;
 	margin-bottom: 20px;
 	border: 1px solid #dddddd;
 	border-collapse: collapse; 
 }
 .table th {
-    font-size: 30px;
+    font-size: 35px;
 	font-weight: bold;
 	padding: 5px;
 	background: #af5f5f;
 	border: 1px solid #dddddd;
 }
 .table td {
-    font-size: 30px;
+    font-size: 35px;
 	border: 1px solid #dddddd;
 	padding: 5px;
 }
@@ -429,23 +452,23 @@ h1 {
        
     }
     .table {
-        font-size: 50px;
+        font-size: 45px;
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         border: 1px solid #dddddd;
         border-collapse: collapse; 
     }
     .table th {
-        font-size: 30px;
+        font-size: 45px;
         font-weight: bold;
-        padding: 5px;
+        padding: 3px;
         background: #af5f5f;
         border: 1px solid #dddddd;
     }
     .table td {
-        font-size: 30px;
+        font-size: 45px;
         border: 1px solid #dddddd;
-        padding: 5px;
+        padding: 3px;
     }
     
     
